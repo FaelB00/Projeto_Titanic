@@ -18,12 +18,14 @@ Programa em C que lê um arquivo .txt composto por dados de 2200 pessoas (classe
   - login: rafael
   - senha: rafael10
  
-![Exemplo de Imagem](assets/Login.png)
+![Login](https://github.com/user-attachments/assets/662507fe-881b-4495-bb07-a2584e0abc43)
+
 
 
 - Selecionar qual tipo de dado quer vizualizar
+  
+![opcoes](https://github.com/user-attachments/assets/7a0502fa-71df-4a4a-b546-f13f6229e7ba)
 
-![Exemplo de Imagem](assets/opcoes.png)
 
 ## 🛠️ Construído com
 
