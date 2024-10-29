@@ -17,8 +17,13 @@ Programa em C que lê um arquivo .txt composto por dados de 2200 pessoas (classe
 - Para entrar no sistema, crie um cadastro ou utilize as seguintes credenciais(necessário ter instalado "admin.txt"):
   - login: rafael
   - senha: rafael10
-![image](https://github.com/rafaelmelo2/Bank3F/assets/53711123/06d9b294-4adb-4262-ba92-07f4e1432338)
+ 
+![Exemplo de Imagem](assets/Login.png)
 
+
+- Selecionar qual tipo de dado quer vizualizar
+
+![Exemplo de Imagem](assets/opcoes.png)
 
 ## 🛠️ Construído com
 
